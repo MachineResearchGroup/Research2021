@@ -1,0 +1,7 @@
+Algorithm,DataSample,n_inter,n_div,Initial Date/Hour,Final Date/Hour,Execution time,f1-score Macro,Params
+MNB,adasyn_1,150,6,Mon Jun 21 04:02:05 2021,Mon Jun 21 04:06:32 2021,0h:4m:26s,96%,"OrderedDict([('alpha', 0.001), ('fit_prior', True)])"
+MNB,adasyn_2,150,6,Mon Jun 21 04:29:26 2021,Mon Jun 21 04:33:50 2021,0h:4m:23s,97%,"OrderedDict([('alpha', 0.001), ('fit_prior', False)])"
+MNB,adasyn_3,150,6,Mon Jun 21 04:56:12 2021,Mon Jun 21 05:00:37 2021,0h:4m:24s,98%,"OrderedDict([('alpha', 0.001), ('fit_prior', False)])"
+MNB,adasyn_4,150,6,Mon Jun 21 05:23:42 2021,Mon Jun 21 05:28:10 2021,0h:4m:28s,97%,"OrderedDict([('alpha', 0.001), ('fit_prior', False)])"
+MNB,adasyn_5,150,6,Mon Jun 21 05:50:53 2021,Mon Jun 21 05:55:22 2021,0h:4m:28s,97%,"OrderedDict([('alpha', 0.001), ('fit_prior', False)])"
+MNB,adasyn_6,150,6,Mon Jun 21 06:18:37 2021,Mon Jun 21 06:23:05 2021,0h:4m:27s,98%,"OrderedDict([('alpha', 0.001), ('fit_prior', False)])"

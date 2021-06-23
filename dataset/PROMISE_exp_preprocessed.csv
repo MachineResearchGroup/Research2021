@@ -1,0 +1,526 @@
+,ProjectID,RequirementText,Class
+0,101,system shall refresh display second,PE
+1,101,application shall match color schema set forth department homeland security,LF
+2,101,project datum readable projection screen viewer able read event activity datum view distance,US
+3,101,product shall available normal business hour long user access client pc system available time month operation,A
+4,101,project datum understandable projection screen viewer able determine event activity occur current time view distance,US
+5,101,product shall ensure access authorized user product able distinguish authorized unauthorized user access attempt,SE
+6,101,product shall intuitive self explanatory new user shall able start display event activity minute product,US
+7,101,product shall respond fast date datum display,PE
+28,102,look feel system shall conform user interface standard smart device,LF
+29,102,user interface shall standard menus button navigation,LF
+30,102,system shall professional appearance,LF
+31,102,product shall consistent color scheme font,LF
+32,102,system shall realtor no training,US
+33,102,system shall intuitive self explanatory,US
+34,102,product shall easy realtor learn,US
+35,102,product shall use symbol word naturally understandable realtor community,US
+36,102,product shall produce search result acceptable time,PE
+37,102,search result shall return no later second user enter search criterion,PE
+38,102,product shall generate cma report acceptable time,PE
+39,102,cma report shall return no later second user enter cma report criterion,PE
+40,102,product shall synchronize contact appointment acceptable time,PE
+41,102,product shall synchronize office system hour,PE
+42,102,product shall available use hour day day year,A
+43,102,access system system available time,A
+44,102,product shall operate offline mode internet connection unavailable,FT
+45,102,product shall allow user view previously download search result cma report appointment,FT
+46,102,product shall retain user preference event failure,FT
+47,102,save user preference shall restore system come online,FT
+48,102,product shall able support multiple remote user,SC
+49,102,product shall able support simultaneous user,SC
+50,102,product shall capable handle exist user number expect grow time year,SC
+51,102,product shall instal untrained realtor recourse separately printed instruction,US
+52,102,untrained realtor shall able install product device print instruction,US
+53,102,product expect run windows ce palm operating system,PO
+54,102,register realtor shall able access system,SE
+55,102,user system shall authenticate authorize,SE
+56,102,product shall prevent datum incorrect datum introduce,SE
+68,103,system shall easy use program administrator nursing staff member,US
+69,103,user shall able use system day training,US
+70,103,system shall help user avoid make mistake scheduling class clinical nursing student,US
+71,103,number mistake note student shall decrease year,US
+72,103,system shall intuitive program administrator nursing staff member,US
+73,103,program administrator nursing staff member shall successfully able use system manage scheduling class clinical,US
+74,103,system shall use symbol word naturally understandable user community,US
+75,103,verbiage system shall consistent standard english terminology national nursing community,US
+76,103,staff member shall able complete set task timely manner,PE
+77,103,response time general student management task shall no long second response time schedule generation shall no long second,PE
+78,103,system shall available use hour p.m.,A
+79,103,system shall achieve time,A
+80,103,system shall able handle user request usage business hour,SC
+81,103,system shall cater simultaneous user p.m.,SC
+82,103,system shall capable process nursing student class year,SC
+83,103,system shall expect manage nursing program curriculum class clinical scheduling minimum year,SC
+84,103,system shall able operate business office environment typical nursing department depaul university,O
+85,103,system shall specification define computer program administrator nursing staff member,O
+86,103,system shall operate windows xp professional operating system,O
+87,103,system shall interface campusconnect central server,O
+88,103,system shall interface faculty central server,O
+89,103,system shall interface student master server,O
+90,103,able interface html browser,O
+91,103,authorize user shall access clinical site information,SE
+92,103,program administrator nursing staff member people shall access clinical site detail,SE
+93,103,authorize user shall access student  personal information,SE
+94,103,dr susan poslusny dr julie donalek people shall access student  personal information,SE
+95,103,authorize user shall access portion system interface campusconnect,SE
+96,103,fit criterion dr susan poslusny karen sysol people shall access final class section scheduling system interface campusconnect,SE
+97,103,system shall basic datum integrity check reduce possibility incorrect invalid datum introduce,SE
+98,103,system shall protect private information accordance organization information policy,SE
+99,103,system shall build secure possible malicious interference,SE
+100,103,system shall use organization standard virus protection software help monitor threat,SE
+147,104,dispute application shall comply corporate standard user interface creation internally externally application,LF
+148,104,screen create dispute application comply corporate standard interface creation,LF
+149,104,list dispute case display search perform color code easy identification dispute case base dispute case status,US
+150,104,cardmember merchant service representative shall use dispute application regularly day training course,US
+151,104,cardmember service representative shall able successfully create dispute case encounter complete training course,US
+152,104,merchant service representative shall able successfully perform follow action dispute case encounter complete training course,US
+153,104,maximum wait time user navigate screen dispute application shall no second,PE
+154,104,dispute application shall support concurrent user degradation performance application,PE
+155,104,dispute application shall available exception following schedule maintenance window monday saturday est sunday est,O
+156,104,dispute application shall interface statement database statement database provide transaction detail dispute system transaction detail obtain statement database,O
+157,104,dispute application shall interface cardmember information database cardmember information database provide detailed information regard cardmember cardmember detail information obtain cardmember information database,O
+158,104,dispute application shall interface merchant information database merchant information database provide detailed information regard merchant merchant detail information shall obtain merchant information database,O
+159,104,dispute application shall interface letter application allow dispute application request letter dispute initiation dispute follow process letter request send print letter utility application,O
+160,104,dispute application shall interface cardmember post billing system allow dispute application request adjustment cardmember merchant account adjustment request send cardmember post billing system,O
+161,104,dispute application shall ensure user appropriate access level allow initiate dispute request,SE
+162,104,user update access able initiate dispute request,SE
+163,104,dispute application shall ensure authorize user allow logon application,SE
+164,104,authorize user authenticate able logon dispute system,SE
+165,104,dispute system shall generate user report detail new user add change exist user access level report review auditing purpose,SE
+166,104,addition new user modification user access shall record user report,SE
+167,104,user account revoke instantiate system administrator,SE
+168,104,system administrator shall able reset revoke user logon account,SE
+169,104,dispute application shall manipulate view business datum user not direct access data file database,SE
+170,104,update data file database initiate dispute system,SE
+171,104,dispute application conform legal requirement specify merchant operate regulation,L
+172,104,business rule specify dispute system shall compliance merchant operate regulation,L
+173,104,dispute application conform legal requirement specify regulation e regulation z govern credit card dispute processing,L
+174,104,business rule specify dispute system shall compliance guideline regulation e regulation z.,L
+175,104,dispute application maintain detailed history action user take dispute case ensure complete audit trail question arise later regard particular dispute case,L
+176,104,action modify exist dispute case record case history,L
+202,105,product support internet explorer,O
+203,105,product support mozilla firefox,O
+204,105,product shall interface choice part system provide feed recycled part datum,O
+205,105,product shall run exist hardware environment,O
+206,105,product shall adhere corporate architecture guideline,O
+207,105,product shall comply corporate user interface guideline,LF
+208,105,product shall comply corporate color scheme,LF
+209,105,appearance product shall appear professional,LF
+210,105,product shall easy use adjuster collision estimator adjuster collision estimator shall find product easy use,US
+211,105,product shall increase productivity collision estimator collision estimator shall agree productivity increase month product,US
+212,105,user shall feel satisfied product user satisfied product,US
+213,105,product shall easy learn adjuster collision estimator product shall learn day onsite training,US
+214,105,user shall easily locate instruction product user help find system,US
+215,105,search recycled part shall no long second search result shall return second,PE
+216,105,search preferred repair facility shall no long second preferred repair facility return second,PE
+217,105,recycled part audit report shall return user second audit report shall return second,PE
+218,105,prefer repair facility rating shall save second save shall occur second,PE
+219,105,product shall adhere corporate online availability schedule application bring schedule outage availability schedule,A
+220,105,product shall achieve uptime product shall not fail available online time,A
+221,105,product shall able handle simultaneous user system shall perform user time,SC
+222,105,average number recycled part record day shall,SC
+223,105,product shall able handle concurrent user year initial launch,SC
+224,105,estimator product shall able operate repair facility dirty noisy condition,O
+225,105,product shall interface choicepart system day approximately,O
+226,105,maintenance product fall establish corporate maintenance window,O
+227,105,product shall support corporate support center,O
+228,105,product installation upgrade shall handle middleware technology team established launch time frame,O
+229,105,adjuster request recycled part audit report no user adjuster role shall request recycled part audits,SE
+230,105,adjuster supervisor role update prefer repair facility rating user supervisor role not access repair facility rating,SE
+231,105,collision estimator shall search recycled part user collision estimator role shall not access search recycled part,SE
+232,105,valid datum shall enter system no invalid datum shall enter system,SE
+233,105,insurance company shall not able view insurance companys claim datum,SE
+234,105,product shall free computer virus,SE
+235,105,system shall prevent malicious attack include denial service,SE
+236,105,product comply sarbane oxley,L
+237,105,product shall comply estimatic law relate recycled part usage,L
+238,105,product shall comply insurance regulation claim process,L
+275,106,product work database management system dbms market dbms collocate product machine locate different machine computer network,O
+276,106,product function alongside server software operating system java runtime instal,O
+277,106,product require collaboration database management system dbms dbms locate machine product separate machine reside computer network,O
+278,106,product use web application server technology open source example include apache web server tomcat jboss application server,O
+279,106,database management system oracle db2 mysql hsql need integrate product,O
+280,106,product look feel shall able incorporate aspect customer organization logo branding identity,LF
+281,106,product shall conservative professional appearance,LF
+282,106,product shall user want use user survey report regularly product week post launch,US
+283,106,product shall easy use user able successfully reserve conference room minute product use,US
+284,106,product shall user feedback necessary user survey report product accurately confirm action,US
+285,106,product shall allow user select choose language target market country,US
+286,106,product shall allow customization start page view preference,US
+287,106,employee able successfully use product minute informally navigate product minute user shall able successfully setup meeting reserve conference room,US
+288,106,product shall use standard navigation menu familiar web user,US
+289,106,product shall allow intuitive searching available conference room,US
+290,106,product shall conform americans disabilities act,US
+291,106,response shall fast avoid interrupt user flow thought task shall complete second task shall complete second,PE
+292,106,aside server failure software product shall achieve time,A
+293,106,product shall create exception log problem encounter product transmission company analysis resolution,FT
+294,106,product shall capable handle concurrent request number increase release concurrency capacity able handle peak scheduling time early morning late afternoon hour,SC
+295,106,product shall able process transaction hour year launch number increase release,SC
+296,106,product shall expect operate year customer installation,SC
+297,106,product shall office environment,O
+298,106,product able interface html browser product shall transmit datum user product problem product shall display html properly html browser test minimum test browser,O
+299,106,product able interface database management system product shall communicate successfully database management system transaction,O
+300,106,product able interface email server product shall able send email,O
+301,106,product shall available distribution internet binary zip file,O
+302,106,product shall available distribution package cd,O
+303,106,product available licensing server server server license,O
+304,106,new user able add system minute new user able log system minute,US
+305,106,product design design pattern code good practice maintenance software developer able integrate new functionality product work day,MN
+306,106,product highly configurable use database management system end user end user able integrate new database management system product change product software code,MN
+307,106,maintenance release offer customer year release shall no long minute customer base install,MN
+308,106,register user access product support site internet registered user shall find solution problem minute support site,US
+309,106,customer shall able easily integrate new building map product product lifecycle integration new map product shall possible little no support product support staff,MN
+310,106,product shall translate foreign language target market country  language future release emerge target market shall no day configure product market language,US
+311,106,product expect integrate multiple database management system product operate oracle sql server db2 mysql hsql ms access,O
+312,106,product shall able instal operating environment day,O
+313,106,product shall ensure company employee external user company approve user id product access logon shall company employee external user company approve user id,SE
+314,106,manager able perform search query reservation user search query reservation user shall logon management logon,SE
+315,106,product shall ensure database data correspond datum enter user conference room reservation system contain information enter user,SE
+316,106,product shall prevent input malicious datum product and/or adjacent hardware software system  datum shall remain uncorrupted time malicious datum input product,SE
+317,106,product and/or dependent database filesystem shall remain operational result input malicious datum product and/or dependent database filesystem shall not crash time malicious datum input product,FT
+318,106,product shall ability receive automatic software update new threat emerge customer able receive automatic software update transmit instal product,SE
+319,106,language product shall accommodate target market country survey respondent target market country find language product acceptable,SC
+320,106,product shall able display calendar date time accord user locale survey respondent target market country find date time format product correct,US
+321,106,product develop j2se j2ee programming language library,O
+349,107,recreation inventory quantity adjustment period previous day shall no 30min,PE
+350,107,system shall allow minimum user work time,PE
+351,107,system shall utilize currently own computer equipment,O
+352,107,system shall able automatically backup business datum restore demand,O
+353,107,system shall maintain consistent security change user password and/or permission affect part system,SE
+354,107,system shall granularly control access right major subsystem possible assign access right subsystem independently,SE
+355,107,system shall meet applicable accounting standard final version system successfully pass independent audit perform certify auditor,L
+356,107,system shall not require additional party license result royalty fee,O
+372,108,administrator shall able activate pre pay card administration section second,PE
+373,108,customer shall able check status prepaid card enter pin number second,PE
+374,108,system shall let customer register website pay user minute,PE
+375,108,system shall let customer register website unlimited movie subscriber user minute,PE
+376,108,system shall let existing customer log website email address password second,PE
+377,108,system shall let customer cancel account process shall no long minute database mark account inactive user not able log website,PE
+378,108,system shall let administrator deactivate customer account minute customer no longer able access website,PE
+379,108,system shall let administrator add remove movie website minute entered movie information store database available website,PE
+380,108,system shall let administrator add remove category website minute,PE
+381,108,system shall let izogn manager access sale usage statistic minute,PE
+382,108,system shall let administrator generate unique pre pay pin minute generate excel file generate pin,PE
+383,108,website shall attractive audience website shall appear fun color bright vibrant,LF
+384,108,website african feel not alienate non africans website use animation page describe service grab user attention encourage sign,LF
+385,108,website design modern clean concise,LF
+386,108,product able novice user internet,US
+387,108,user navigate maximum page create account website,US
+388,108,user able access stream movie click log website,US
+389,108,anonymous survey customer comfortable purchase stream movie week website,US
+390,108,anonymous survey customer comfortable purchase pre pay card month system,US
+391,108,product shall retain customer buying preference information,US
+392,108,product shall easy customer novice skill internet purchase watch streaming movie customer able purchase watch pre determined movie minute,US
+393,108,product shall use symbol word naturally understandable user familiar website,US
+394,108,website use standard internet convention interact user,US
+395,108,interface user automate system shall maximum response time second note exception,PE
+396,108,purchase streaming movie pre pay card credit card processing time maximum response time second,PE
+397,108,stream movie buffering time no long second plus latency user connection,PE
+398,108,stream movie buffering occur latency user connection,PE
+399,108,credit card information secure server accessible authorized izogn administrator information encrypt database,SE
+400,108,website shall available use hour day day year,A
+401,108,website shall achieve time,A
+402,108,movie shall stream demand time day,A
+403,108,website shall continue operate streaming server go,FT
+404,108,website shall continue operate payment gateway go,FT
+405,108,streaming server support simultaneous streaming connection,SC
+406,108,streaming server support maximum movie new server add support movie,SC
+407,108,server support maximum simultaneous user,SC
+408,108,website shall capable support customer,SC
+409,108,product shall expect operate maximum maintenance budget minimum year,MN
+410,108,aspect website shall access web browser internet,O
+411,108,hardware support current website support new system,O
+412,108,able interface follow browser ie netscape firefox,O
+413,108,website interface cybersource api process credit card transaction,O
+414,108,website fully operational msn tv2,O
+415,108,movie shall encode stream window medium player,O
+416,108,movie shall encode 56k stream,O
+417,108,promotional update website day update,MN
+418,108,izogn administrator able update category listing website minute,PE
+419,108,izogn administrator able add new product website minute,PE
+420,108,system provide hour toll free number support customer,A
+421,108,website provide help section answer solution common problem,US
+422,108,velkat staff available phone support p.m. m f provide technical support izogn administrator,A
+423,108,product shall able instal specified environment work day,O
+424,108,register customer purchase streaming movie,SE
+425,108,customer stream movie purchase day view period,SE
+426,108,authorized personnel access customer record database,SE
+427,108,administrator activate pre pay card,SE
+428,108,authorized personnel access sale information,SE
+429,108,website shall prevent datum corrupt incorrect data enter,SE
+430,108,website shall protect intentional abuse notify administrator occurrence,SE
+431,108,datum integrity script run weekly basis verify integrity database,SE
+432,108,website shall user aware information practice collection datum privacy policy accessible page website,SE
+433,108,system shall notify customer change information policy,SE
+434,108,system shall reveal private information compliance organization information policy,SE
+435,108,customer information store secure database accessible authorized personnel,SE
+436,108,credit card information encrypt database,SE
+437,108,streaming server anti virus software prevent infection malicious virus,SE
+438,108,website cater tribe nigeria,LF
+439,108,website shall not offensive religious ethnic group,LF
+440,108,website appeal african not nigerians,LF
+441,108,website use flash provide animation home page,O
+442,108,izognmovie shall meet licensing requirement set forth appropriate organization order stream african movie,L
+443,108,website comply w3c standard,L
+444,108,php code comply pear standard,L
+464,109,total lead cycle time complete minute lead volume business hour cst p.m. cst minute lead volume business hour,PE
+465,109,no lead evaluation complete time period long second lead process,PE
+466,109,lead process longer second system record event duration,PE
+467,109,process fit processing time condition set forth auto rep assignment process lead assign minute total life cycle,PE
+468,109,lead washing process operate establish physical web service structure,O
+469,109,washing process use non binding neutral datum format xml receive processing lead datum,O
+470,109,defect report available technical unit basis,A
+471,109,washing parameter update schedule maintenance hour,MN
+488,110,product shall simulate look ship sea,LF
+489,110,product shall display grid circle view periscope,LF
+490,110,product shall display type ship grid image specific type ship,LF
+491,110,offensive player take shot product shall simulate sound ship sea,LF
+492,110,shot mark miss product shall simulate sound shot miss target,LF
+493,110,shot mark hit product shall simulate sound shot hit target,LF
+494,110,ship sink product shall simulate sound sink ship,LF
+495,110,product shall available hour day day week,A
+496,110,product shall able handle large number game simultaneously,PE
+497,110,response time shall fast maintain flow game response time shall no second response no remain response,PE
+498,110,product shall protect identity player product shall provide player no access information reveal identity player,PE
+499,110,product shall intuitive self explanatory user shall able successfully complete game no training,US
+500,110,product shall available player understand english spanish french product shall allow user select language access product,US
+501,110,product shall provide player no access information reveal identity player,SE
+502,110,response time shall fast maintain flow game response time shall no second response no remain response,PE
+541,111,system shall easy use caller supervisor caller supervisor able accomplish system task minute,US
+542,111,system shall easy learn caller supervisor caller supervisor shall learn use system minute,US
+543,111,system shall responsive depaul teleservices center supervisor use system view caller schedule system response time no second time no second rest time,PE
+544,111,connection system response time operation no second time,PE
+545,111,connection fast system response time operation no second time,PE
+546,111,system shall high availability day year system available use day year,A
+547,111,system available use day year,A
+548,111,product shall internet browser independent product run internet explorer netscape navigator,MN
+549,111,product shall ensure supervisor advertise time slot product ensure supervisor allow access advertise time slot,SE
+550,111,product shall ensure supervisor enter caller schedule product ensure supervisor allow access advertise time slot,SE
+551,111,product shall ensure supervisor view schedule caller product ensure supervisor allow access advertise time slot,SE
+552,111,interface shall simple look interface usability survey beta tester report interface adequately simple,LF
+553,111,interface shall appeal caller supervisor interface usability survey beta tester report interface appeal,LF
+554,112,product shall provide gui base monitoring service system administrator shall monitor message exchange predict determine problem provide internal external support,LF
+555,112,product shall comply city chicago application development guide framework application development framework provide structure graphical user interface,LF
+556,112,product shall provide monitoring service product shall easy system administrator dbas use week usage,US
+557,112,product shall provide error tracking service product shall help system administrator dbas resolve transaction error time,US
+558,112,product shall provide portal product shall help system administrator analyze transaction ad hoc reporting kpis key performance indicator,US
+559,112,product shall provide asynchronous messaging product shall provide asynchronous messaging enable parallel processing reduce overhead communication,PE
+560,112,product shall provide multi threading load balancing product shall provide multi threading technology load balance overcome data load spike traffic,PE
+561,112,product shall process message second product shall maximum message processing time second,PE
+562,112,product shall poll system message second product shall poll system new message maximum second,PE
+563,112,product shall provide dynamic change support transparent resource addition product shall support transparent resource addition dynamic change support provide scalability avoid service interruption day,PE
+564,112,product shall available time rationale avoid service interruption busy customer service response period product shall available time regular business day,A
+565,112,product shall robust product shall fault avoidance base standard adoption,FT
+566,112,product shall robust fault tolerance product shall fault tolerance recovery technique compensatory transaction route failure,FT
+567,112,product shall able process transaction product shall process minimum transaction year,SC
+568,112,product shall platform independent product shall enable access type development environment platform,O
+569,112,product shall interface csr datastream product shall exchange message csr eam real time basis direct interface system,O
+570,112,product shall continue operate upgrade change new resource addition product shall able continue operate no interruption service new resource addition,MN
+571,112,product shall update regular basis product new major feature introduce month quarterly maintenance release month,MN
+572,112,product shall operate platform product shall accommodate new technology change architecture,MN
+573,112,product shall security product shall provide authentication authorization,SE
+574,112,product shall information security product shall enable privacy encryption ws security integrity checking,SE
+575,112,product shall audit capability product shall store message minimum year audit transaction tracking purpose,SE
+576,113,system shall use ibm ccr branding standard interface ibm logo ccr logo,LF
+577,113,system shall displayable work computer ccr user system interface shall format display pixel resolution,LF
+578,113,system interface use ccr nomenclature system use nomenclature exist wcs system report,LF
+579,113,interface summarize datum fashion appeal ccr management report type high level summary show result dashboard interface,LF
+580,113,system use point click interface selection navigation functionality able activate select mouse keyboard,US
+581,113,interface shall easy use user able successfully use system generate report use interface adhere ibm usability standard,US
+582,113,report easy generate report generate button click export button click select report,US
+583,113,user shall able use system instruction short time use user understand remember system usage navigation,US
+584,113,ccr user shall receive training wcs system deploy training session hold ccr user system deployment base ccr user available,US
+585,113,wcs system shall use appropriate nomenclature terminology define corporate community grant organization interface report undergo usability test ccr user,US
+586,113,wcs system shall available time long ibm internal intranet w3 accessible wcs system available time ibm internal intranet w3 available,A
+587,113,wcs system shall ability connect designate wcs database currently not include system,SC
+588,113,wcs system shall ability include datum region outside united states access user outside united states approve ccr management,SC
+589,113,wcs system shall run windows environment wcs shall access user internet ibm computer run window operating system,O
+590,113,brio portion wcs system able export file spreadsheet form microsoft excel lotus format brio provide button user interface produce export report .xls file format,O
+591,113,wcs system run query wcs database specify day update available datum available ccr user query external database datum refresh week,MN
+592,113,change update addition wcs system shall update wcs developer wcs user guide change reflect wcs system documentation,MN
+593,113,system shall access authorized corporate community grant ccr employee user authenticate ibm intranet user password,SE
+594,113,wcs system shall not allow automatic login user cookie contain wcs login information user not store user computer,SE
+595,114,team owner need use username password order authenticate reach team owner page,SE
+596,114,commissioner authorize user league adjust league setting,SE
+597,114,page shall contain navigation menu show index current page contain,LF
+598,114,page shall contain similar format action item location navigation button different location,LF
+599,114,message board shall contain recently post message league page message contain character message,LF
+600,114,new user shall able navigate league team page second reach start page,US
+601,114,user shall able reach add drop trade player  page click team owner page,US
+602,114,user shall able view nfl player statistic point page,US
+603,114,application shall ask user confirm drop player trade player perform action,US
+604,114,application shall able complete user transaction fourth second receive request network,PE
+605,114,application shall downtime minute year,A
+606,114,application shall run web application server,O
+607,114,primary database store cached datum active user,O
+608,114,secondary database store historical statistic datum,O
+609,114,application update shall occur cst wednesday morning middle nfl season,MN
+610,114,new system version release shall release beginning nfl season,MN
+611,115,rfs system available especially budgeting period rfs system shall available time year budgeting period time system available hour time situation report,A
+612,115,user workstation shall meet minimum hardware requirement prior implementation minimum hard disk space mb,O
+613,115,user workstation shall meet minimum software requirement prior implementation microsoft internet explorer microsoft .net framework microsoft internet explorer web control,O
+614,115,rfs system able easily interface bdw environment order load datum data file shall receive bdw load rfs system hour day prior start budgeting process year data october month end test file shall load time year bdw,O
+615,115,change revenue expense formula apply rfs system year prior budgeting process start revenue expense formula update week receipt week allot testing budget calculation conduct jointly project development team pcg finance,MN
+616,115,new branch complex district region revenue expense account add bdw reflect rfs system entity mention available october month end load rfs system prior budget start process,MN
+617,115,authorize user shall access rfs system user exist uas system rfs system assign role(s shall access rfs system use,SE
+618,115,user access limit permission grant role(s level pcg hierarchy assign role user assign role access functionality rfs system dependent privilege permission assign role,SE
+619,115,product comply intranet page standard requirement enet security product look & feel approve architecture group prior implementation remain correct approve month product release,LF
+620,115,intranet page display appropriately resolution high display page correct resolution prior implementation remain correct week notification incorrect display,LF
+621,115,user able easily use system successfully complete budget stipulate time completion week training prior product implementation user shall complete budget stipulate time,US
+622,115,product interface fast response time product interface not exceed second time time response time not second not second,PE
+623,116,system shall operate unix window operate system,PO
+624,116,system shall evoke type pine command prompt,O
+625,116,system shall use smtp mail protocol,O
+629,116,system shall use text base interface display listing available mail,LF
+630,116,system shall help system offer tip explanation screen item screen demand,US
+644,118,meeting scheduler shall access web,O
+652,119,system easy use manager chef not need read extensive manual,US
+653,119,system quickly accessible manager chef,US
+654,119,system intuitive simple way display relevant datum relationship,US
+655,119,menu system easily navigable user button easy understand,US
+656,119,function system available user time system turn,A
+657,119,calculation perform system comply accord norm set user not vary explicitly change user,L
+658,119,client agree eula software,L
+659,120,web page generate system shall fully downloadable no second modem connection,PE
+660,120,response query shall no long second load screen user submit query,PE
+661,120,system shall display confirmation message user second user submit information system,PE
+662,120,network transaction involve financial information personally identifiable information shall encrypt,SE
+664,120,patron shall log accord restricted computer system access policy,SE
+666,120,user authorize home access corporate intranet use cos non company location,SE
+667,121,programmer application developer access source code address bug system enhancement deem necessary network administrator dba support require maintain system uptime,A
+668,121,system security access level provide online system vary level system access functional authority student access limited registration record authorize system administrator(s access student registration record,SE
+670,122,datum entry form application match microsoft excel hardcopy counterpart closely possible hardcopie form provide design team second requirement interview,O
+671,123,user not need read user manual able use application,US
+672,123,change manage would website adopt alter ios application,MN
+673,124,application connect internet,A
+674,124,application connect gps device,A
+675,124,application easy extend code write way favor implementation new function,MN
+676,124,test environment build application allow testing application different function,MN
+677,124,application portable ios android,PO
+678,125,system shall tab display equivalent functionality campus map tab info recently announce building,LF
+679,125,system shall allow user scroll campus map campus map tab,US
+680,125,campus map shall provide visual clue area prepare audio select,LF
+681,125,campus map shall pause resume button pause resume button allow user scroll select building interrupt automatic search announce feature,LF
+682,125,system shall provide way return startup screen,US
+685,127,system use company color logo,LF
+686,127,system shall capable restore previous state event failure e.g. system crash power loss,FT
+687,127,system shall able display menu time facilitate manual order take need arise,LF
+688,127,system shall utilize periodic second alive message tablet server monitor tablet operational status,O
+689,127,system shall flag tablet fail send timely alive message non operational disassociate assign waiter tablet,FT
+690,127,waiter password tablet login bit strength bit,SE
+691,127,waiter password tablet login change month,SE
+692,127,waiter shall able log tablet give instance time,SE
+693,127,waiter attempt log second tablet log tablet shall reject notify tablet,SE
+694,127,display shall not require user log,SE
+695,127,surface computer shall not require user log,SE
+696,127,tablet shall require user log username password,SE
+697,128,system fully function major browser,PO
+698,128,system support mobile user way,PO
+699,129,response view information shall no long second appear screen,PE
+700,129,system shall accommodate large data item fault,FT
+701,129,system use secured database,SE
+702,129,unauthorized user read datum modify,SE
+703,129,ab shall handle expect unexpected error way prevent loss information long downtime period,FT
+714,130,information transmission securely transmit server change information,SE
+715,130,intuitive time user,LF
+716,131,flea market system interface web server rdbms software api provide implementation language,O
+717,131,transaction flea market require valid user would password,SE
+718,131,secure datum transfer internet provide ssl encryption configure host system administrator,SE
+719,131,ip address transaction log,SE
+720,131,user password store database encrypted format,SE
+722,131,detailed documentation code srs enable easy maintenance flea market,MN
+727,132,update part change connect server,O
+728,132,able change update information server,O
+729,132,application log user exit,SE
+730,132,correct combination username password require user login,SE
+731,132,drill view datum medical record log,LF
+739,132,logout automatic hour inactivity,SE
+740,132,datum backup create daily,SE
+742,132,account securely store datum,SE
+753,133,system location doughnut send,O
+754,133,website available user want use,A
+755,134,system use ssl secure socket layer transaction include confidential customer information,SE
+756,134,system automatically log customer period inactivity,SE
+757,134,system not leave cookie customer computer contain user password,SE
+758,134,system end server shall accessible authenticate administrator,SE
+759,134,sensitive datum encrypt send insecure connection like internet,SE
+760,134,system provide storage database redundant computer automatic switchover,O
+761,134,reliability overall program depend reliability separate component main pillar reliability system backup database continuously maintain update reflect recent change,FT
+762,134,end user use system os window linux,PO
+763,135,logo current basic design registration system display system attractive accord client design color user feel comfortable system instead flash useless color screen design reflect seriousness environment,LF
+764,135,system able manage information incoming database catalogue,O
+765,135,product web base environment allow web access,PO
+766,135,system successfully operate registration system integrate service portal,O
+767,135,system need entirely self support user register course,US
+768,135,web interface compatible standard order usable major web browser wide variety environment,PO
+769,135,stakeholder guest access system catalogue client secure private access datum service man access system access guest tour access require identification would password,SE
+770,135,system develop security system reduce minimum possibility corruption system and/or human,SE
+771,136,operational interface shall mean time failure no day,FT
+772,136,system shall available time,A
+773,136,software system need robust security mechanism place unauthorized user not allow access part system,SE
+774,136,user shall trust not trust,SE
+775,136,source code development relate document shall control version control system,MN
+776,136,source code shall adhere agree define set code standard development language,MN
+777,136,software run popular hardware platform goal achieve reasonable level platform independence,PO
+778,137,high level performance require high speed network high level connectivity,PE
+779,137,available server reliable network connectivity supermarket proper smooth flow operation datum,O
+780,137,user software provide unique login would password store database hash sha2 algorithm,SE
+781,137,software available use supermarket opening time closing time,A
+782,138,system shall accommodate high number item user fault,FT
+783,138,system use shall not harm human user,SE
+784,138,system use secured database,SE
+785,138,normal user read information not edit modify personal information,SE
+786,138,system different type user user access constraint,SE
+790,138,customer valid login would enter site,SE
+810,140,system expect reasonable short time response voter able login able response request second,PE
+811,140,datum transaction client server encrypt ssl technology,SE
+812,140,password generate accept store database encrypted form,SE
+813,140,prevent attack system generate random word ask user enter correctly multiple trying,SE
+814,140,system warn eca user malfunction system,FT
+815,140,system simple use,LF
+832,143,user system shall login form unique identification,SE
+833,143,login attempt shall secure manner,SE
+834,143,system shall compatible microsoft window operate system,O
+867,145,web application shall add no second perceivable overhead time necessary web database transaction time,PE
+868,145,system shall utilize https communication ensure datum confidentiality,SE
+869,145,user authentication privilege define outside scope system microsoft active directory server,SE
+870,145,personal information security define outside scope sdms database server,SE
+871,145,user shall require log system operation operation login page,SE
+872,145,system shall run windows server,PO
+873,145,system shall compatible iis6.0 apache,PO
+932,146,system shall provide uniform look feel web page,LF
+933,146,system shall provide digital image product product catalog,US
+934,146,system shall provide use icon toolbar,US
+935,146,system shall provide handicap access,US
+936,146,system shall provide multi language support,US
+937,146,system shall provide contractual agreement internet service provider t3 access availability,A
+938,146,system shall provide contractual agreement internet service provider provide availability network facility internet,A
+939,146,product shall base web run web server,O
+940,146,product shall initial load time depend internet connection strength depend medium product run,PE
+941,146,performance shall depend hardware component client customer,PE
+942,146,system shall use secure socket transaction include confidential customer information,SE
+943,146,system shall automatically log customer period inactivity,SE
+944,146,system shall confirm transaction customer web browser,US
+945,146,system shall not leave cookie customer computer contain user password,SE
+946,146,system shall not leave cookie customer computer contain user confidential information,SE
+947,146,customer web browser shall display customer password shall echo special character represent type character,SE
+948,146,customer web browser shall display customer credit card number retrieve database shall show digit credit card number,SE
+949,146,system end server shall display customer password customer password reset show,SE
+950,146,system end database shall encrypt,SE
+952,147,system use single password user login e store system,SE
+953,147,system shall use secure socket layer ssl technology ensure payment online user login secure,SE
+954,148,page application not second load dsl broadband connection,PE
+955,148,system throttle slow heavy load ensure service everybody throttling mean certain functionality unavailable heavy server load,PE
+956,148,application able support concurrent user performance degradation,PE
+957,148,system able scale concurrent user need future instal additional hardware component,SC
+958,148,mtbf not month,A
+959,148,secure server require ensure confidentiality customer credit card detail,SE
+960,148,user interface system user friendly,US
+961,148,not second new user register account,US
+962,148,not second register user place order,US
+963,148,system easy maintain manual hour training,MN
+964,148,system portable operating environment,PO
+966,149,entire website user friendly easily navigable website provide site map quick access particular link accord requirement specification user able find want site difficulty website adhere brand scheme layout web page uniform,US
+967,149,system shall support simultaneous user central database give time simultaneous user local server time performance website optimal case huge load appropriate load balancing achieve number mirror server readily available case huge load user get delay,PE
+968,149,website provide high degree security register user transaction secure sensitive information pass website secure identity theft security relate issue solve unauthorized transmission sensitive information user party website reference avoid basis user agreement information process information register user securely store central database,SE

@@ -1,0 +1,7 @@
+Algorithm,DataSample,n_inter,n_div,Initial Date/Hour,Final Date/Hour,Execution time,f1-score Macro,Params
+MNB,smotetomek_1,150,6,Sun Jun 20 23:03:30 2021,Sun Jun 20 23:10:17 2021,0h:6m:46s,96%,"OrderedDict([('alpha', 0.001), ('fit_prior', False)])"
+MNB,smotetomek_2,150,6,Sun Jun 20 23:39:51 2021,Sun Jun 20 23:46:16 2021,0h:6m:24s,96%,"OrderedDict([('alpha', 0.001), ('fit_prior', False)])"
+MNB,smotetomek_3,150,6,Mon Jun 21 00:16:41 2021,Mon Jun 21 00:22:21 2021,0h:5m:40s,96%,"OrderedDict([('alpha', 0.001), ('fit_prior', False)])"
+MNB,smotetomek_4,150,6,Mon Jun 21 00:52:25 2021,Mon Jun 21 00:58:14 2021,0h:5m:49s,96%,"OrderedDict([('alpha', 0.001), ('fit_prior', True)])"
+MNB,smotetomek_5,150,6,Mon Jun 21 01:26:22 2021,Mon Jun 21 01:32:54 2021,0h:6m:31s,96%,"OrderedDict([('alpha', 0.001), ('fit_prior', False)])"
+MNB,smotetomek_6,150,6,Mon Jun 21 01:59:28 2021,Mon Jun 21 02:04:42 2021,0h:5m:13s,96%,"OrderedDict([('alpha', 0.001), ('fit_prior', False)])"
