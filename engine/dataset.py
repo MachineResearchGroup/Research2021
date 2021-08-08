@@ -6,34 +6,39 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import tools.data_tool as bt
 from sklearn.model_selection import StratifiedShuffleSplit
 
-from engine.resampling import Resampling
+from models.resampling import Resampling
 
 
 class DataSet:
 
-    def define_datasets(self, index_data, data):
-        resamplings = ['origin', 'tomek', 'smote', 'bdsmote', 'adasyn', 'smotetomek']
-        k_folds = 6
-        X = data['RequirementText']
-        y = data['Class']
-        cv = StratifiedShuffleSplit(n_splits=k_folds, test_size=0.2)
-        indices = cv.split(X, y)
+    def define_datasets(self, qtd, data):
 
-        i = 1
-        for train, test in indices:
-            vetorClas = LabelEncoder().fit(y[train])
-            y_train = vetorClas.transform(y[train])
-            y_test = vetorClas.transform(y[test])
+        for index_data in range(qtd):
+            resamplings = ['origin', 'tomek', 'smote', 'bdsmote', 'adasyn', 'smotetomek']
+            k_folds = 6
+            X = data['RequirementText']
+            y = data['Class']
+            cv = StratifiedShuffleSplit(n_splits=k_folds, test_size=0.2)
+            indices = cv.split(X, y)
 
-            vetorText = TfidfVectorizer().fit(X[train])
-            x_train = vetorText.transform(X[train])
-            x_test = vetorText.transform(X[test])
+            self.create_directories(qtd)
 
-            self.export_data_test(index_data, i, x_test, y_test)
+            i = 1
+            for train, test in indices:
+                vetorClas = LabelEncoder().fit(y[train])
+                y_train = vetorClas.transform(y[train])
+                y_test = vetorClas.transform(y[test])
 
-            for resampling in resamplings:
-                self.export_data_train(index_data, resampling, i, x_train, y_train)
-            i += 1
+                vetorText = TfidfVectorizer().fit(X[train])
+                x_train = vetorText.transform(X[train])
+                x_test = vetorText.transform(X[test])
+
+                self.export_data_test(index_data + 1, i, x_test, y_test)
+
+                for resampling in resamplings:
+                    self.export_data_train(index_data + 1, resampling, i, x_train, y_train)
+                i += 1
+
     def export_data_train(self, index_data, resampling, index, x_train, y_train):
         path = '../results/datasets/data_'+str(index_data)+'/train/'+resampling + '_train(' + str(index) + ')'
         if resampling != 'origin':
@@ -105,3 +110,18 @@ class DataSet:
 
         return count
 
+    def create_directories(self, max):
+        paths = [
+            "../results",
+            "../results/datasets"
+        ]
+
+        for i in range(max):
+            paths.append("../results/datasets/data_" + str(i + 1))
+            paths.append("../results/datasets/data_" + str(i + 1) + "/detail")
+            paths.append("../results/datasets/data_" + str(i + 1) + "/test")
+            paths.append("../results/datasets/data_" + str(i + 1) + "/train")
+
+        for path in paths:
+            if not os.path.isdir(path):
+                os.mkdir(path)
